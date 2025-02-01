@@ -5,7 +5,6 @@ By making industry-leading tools and education available to individuals from all
 
 # Weather Trend Forecasting Model Documentation
 
-## Introduction
 
 This document provides a comprehensive overview of the Weather Trend Forecasting Model, detailing the data preprocessing, exploratory data analysis (EDA), model building, and evaluation techniques used to predict weather trends using machine learning approaches.
 
