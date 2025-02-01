@@ -1,5 +1,3 @@
-# Weather-Trend-Forecasting-Model
-
 # Weather Trend Forecasting Model Documentation
 
 ## Introduction
