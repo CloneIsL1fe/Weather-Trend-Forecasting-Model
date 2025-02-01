@@ -1,3 +1,8 @@
+#Our Mission
+ 
+
+By making industry-leading tools and education available to individuals from all backgrounds, we level the playing field for future PM leaders. This is the PM Accelerator motto, as we grant aspiring and experienced PMs what they need most – Access. We introduce you to industry leaders, surround you with the right PM ecosystem, and discover the new world of AI product management skills.
+
 # Weather Trend Forecasting Model Documentation
 
 ## Introduction
